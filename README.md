@@ -1,4 +1,9 @@
-### Hi there 👋
+### Thank you for visiting Jay's Github👋
+
+I am a student who makes efforts for the convergence of IT and international trade.
+
+
+
 
 <!--
 **jaykim23/jaykim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
