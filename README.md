@@ -9,7 +9,7 @@
   [![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/2nd_name_ngamla/)](https://www.instagram.com/2nd_name_ngamla/)
 	
 	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto: hotan1994@gmail.com)](mailto:hotan1994@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hotan1994@gmail.com)](mailto:hotan1994@gmail.com)
 
 
 
