@@ -1,6 +1,15 @@
 ### Thank you for visiting Jay's Github👋
 
-I am a student who makes efforts for the convergence of IT and international trade.
+🔭 Student if INHA UNIV department of Business Administration majoring Intenational trade & Logistics.
+👯 I’m looking to collaborate on convergence of IT and international trade.
+🌱 I’m currently learning Java, Javascript, Springboot, HTML5, CSS3, OracleDB
+📫How to reach me : 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hije-kim-9224121aa/)](https://www.linkedin.com/in/https://www.linkedin.com/in/hije-kim-9224121aa/)
+	
+  [![Instagram Badge](https://img.shields.io/badge/instagram-1877f2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/2nd_name_ngamla/)](https://www.instagram.com/2nd_name_ngamla/)
+	
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto: hotan1994@gmail.com)](mailto:hotan1994@gmail.com)
 
 
 
