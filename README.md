@@ -1,8 +1,8 @@
 ### Thank you for visiting Jay's Github👋
 
-🔭 Student if INHA UNIV department of Business Administration majoring Intenational trade & Logistics.<br>
-👯 I’m looking to collaborate on convergence of IT and international trade.<br>
-🌱 I’m currently learning Java, Javascript, Springboot, HTML5, CSS3, OracleDB.<br>
+🔭 Student if INHA UNIV department of Business Administration majoring Intenational trade & Logistics.<br><br>
+👯 I’m looking to collaborate on convergence of IT and international trade.<br><br>
+🌱 I’m currently learning Java, Javascript, Springboot, HTML5, CSS3, OracleDB.<br><br>
 📫How to reach me : <br>
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hije-kim-9224121aa/)](https://www.linkedin.com/in/https://www.linkedin.com/in/hije-kim-9224121aa/)
 	
